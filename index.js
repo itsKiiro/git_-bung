@@ -1,5 +1,6 @@
 for (let i = 0; i < 10; i++) {
-    console.log("Versuch_2");
+    console.log("was meine version ?");
 }
 
 let x = 4;
+
